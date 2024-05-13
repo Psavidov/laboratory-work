@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/laboratory-work/static/css/main.24c51afa.css",
-    "main.js": "/laboratory-work/static/js/main.36f9bf1c.js",
+    "main.js": "/laboratory-work/static/js/main.91745b4d.js",
     "index.html": "/laboratory-work/index.html",
     "main.24c51afa.css.map": "/laboratory-work/static/css/main.24c51afa.css.map",
-    "main.36f9bf1c.js.map": "/laboratory-work/static/js/main.36f9bf1c.js.map"
+    "main.91745b4d.js.map": "/laboratory-work/static/js/main.91745b4d.js.map"
   },
   "entrypoints": [
     "static/css/main.24c51afa.css",
-    "static/js/main.36f9bf1c.js"
+    "static/js/main.91745b4d.js"
   ]
 }
